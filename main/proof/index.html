@@ -886,6 +886,30 @@ body { background: #fff; color: #111; -webkit-font-smoothing: antialiased; }
 .pf-hero-note p{font-size:1.05rem;line-height:1.6;color:#666;max-width:420px;margin:0;}
 .pf-hero-banner{margin-top:56px;width:100%;height:clamp(420px,42vw,520px);overflow:hidden;border-radius:14px;background:#e8eeff;}
 .pf-hero-banner img{width:100%;height:100%;object-fit:cover;display:block;}
+.pf-hero-btns {
+  display: flex;
+  gap: 14px;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}
+.btn-outline-dark {
+  background: transparent;
+  color: #0f172a;
+  border: 1.5px solid #cbd5e1;
+  padding: 14px 28px;
+  border-radius: 999px;
+  font-size: .95rem;
+  font-weight: 600;
+  transition: all .2s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+}
+.btn-outline-dark:hover {
+  border-color: #0f172a;
+  background: #f8fafc;
+  transform: translateY(-1px);
+}
 
 /* ---------- Generic section heads ---------- */
 .pf-sec{background:#fff;padding:96px 0;}
@@ -1186,7 +1210,10 @@ body { background: #fff; color: #111; -webkit-font-smoothing: antialiased; }
       <div class="pf-hero-lead reveal">
         <div class="ab-eyebrow">PROOF · CASE STUDIES</div>
         <h1>Trusted by AI Companies, <span class="accent">Enterprise Teams</span>, and Product Innovators</h1>
-        <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1Zt7KlkfMyOoHb9-Aydz4eDp3rzzr4Zpzgl3r0aizQHWVL1jbWvGD0xbd24AxJeoyqK-Jn7FDb" target="_blank" rel="noopener" class="btn btn-blue">Start a Project</a>
+        <div class="pf-hero-btns">
+          <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1Zt7KlkfMyOoHb9-Aydz4eDp3rzzr4Zpzgl3r0aizQHWVL1jbWvGD0xbd24AxJeoyqK-Jn7FDb" target="_blank" rel="noopener" class="btn btn-blue">Start a Project</a>
+          <a href="../contact/index.html" class="btn btn-outline-dark">Get in Touch</a>
+        </div>
       </div>
       <div class="pf-hero-note reveal">
         <p>GMIC helps companies move from ideas to deployable hardware. Whether the goal is validating a new workflow, launching a consumer product, or scaling an AI platform into the physical world, our customers rely on GMIC for engineering, prototyping, and manufacturing support.</p>
