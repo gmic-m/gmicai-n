@@ -1,0 +1,71 @@
+Section,Element,English copy — v1.4 review,Internal note / approval
+Hero,Status,In development · Pilot preparation,Visible public-facing status; R&D recheck
+Hero,H1,AI Vest for Field Service Teams,
+Hero,Tagline,Keep the context of the job with the record.,
+Hero,Body,"GMIC is developing HA-VEST01, a wearable AI vest for field documentation. It is being evaluated for crawlspace, HVAC and plumbing work, with the aim of connecting permitted images and spoken observations to the right job and helping prepare records for professional review.","Intent, not current performance; R&D review"
+Hero,Primary CTA,Discuss Your Use Case,Links to same inquiry form
+Hero,Secondary CTA,Explore Applications,Anchor to three applications
+Hero,Image disclosure,AI-generated placeholder — INTERNAL REVIEW ONLY. Not an approved product appearance; not for publication.,All review imagery labeled visibly; replace before launch
+Challenge,Eyebrow,THE CHALLENGE,
+Challenge,H2,A photo shows the problem. It rarely explains it.,
+Challenge,Body,"A photo may show water damage or a dirty coil without identifying where it was found, which checks were performed or what the next person needs to know. Field teams may have to reconstruct details from scattered photos, notes and recollections after a visit.","Fanyao has owner interviews, not technician study"
+Challenge,Introduction to cards,Gaps a pilot is designed to test:,Not claiming validated user research
+Challenge,Card 1,"Missing context. Photos may lack a location, equipment identity or corresponding check.",
+Challenge,Card 2,Extra reporting work. Teams may have to piece together details after a visit.,
+Challenge,Card 3,Unclear handoffs. A reviewer may struggle to tell what is confirmed and what remains uncertain.,
+Wearable,Eyebrow,WHY WEARABLE,New v1.4 section
+Wearable,H2,Designed around the way field work happens.,
+Wearable,Body,Field work can occupy both hands and take technicians into tight or awkward spaces. HA-VEST01 explores whether a body-worn approach can reduce the need to interrupt a task to handle a separate recording device while preserving useful job context.,Value hypothesis; no proven hands-free claim
+Wearable,Value 1,"Work in constrained spaces — Evaluate comfort, positioning and interference during crawlspace inspections.",
+Wearable,Value 2,Keep task context together — Explore how permitted observations and visual material could be linked to a specific job.,R&D validation required
+Wearable,Value 3,Support the handoff — Test whether a reviewed record is easier for the next professional to understand.,
+Applications,Eyebrow,APPLICATIONS,
+Applications,H2,Start with a specific field-service job.,
+Applications,Intro,"Our first evaluation focus is crawlspace inspection, HVAC service and plumbing repair. Each pilot tests a real workflow rather than assuming one configuration fits every team.",
+Applications,Crawlspace / Title,Crawlspace Work,
+Applications,Crawlspace / Challenge,"Tight or dark spaces can make it awkward to reach for a phone, and locations can be difficult to explain afterward.",
+Applications,Crawlspace / Intended outcome,Make observations and their locations easier for another professional to identify and revisit.,Requires R&D confirmation
+Applications,Crawlspace / What to validate,"Evaluate placement, usable capture position and whether the equipment interferes with crawling or inspections.",Pilot goal; not validated performance
+Applications,HVAC / Title,HVAC Service,
+Applications,HVAC / Challenge,"Equipment identity, observations, instrument readings and work performed can end up mixed across notes and photos.",No quantified technician evidence
+Applications,HVAC / Intended outcome,"Keep equipment details, observed conditions, readings and completed work distinct for professional review.",Requires R&D confirmation
+Applications,HVAC / What to validate,"We compare the complete process, from site visit to reviewed report and corrections, with the team's current tools.","Pilot proposal, not commitment of capabilities"
+Applications,Plumbing / Title,Plumbing Repairs,
+Applications,Plumbing / Challenge,"A visible leak or damage photo may not explain what was checked, what repair was proposed or what was completed.",
+Applications,Plumbing / Intended outcome,"Connect the visible issue, checks performed, proposed scope and completion record for professional review.",Requires R&D confirmation
+Applications,Plumbing / What to validate,Test whether the complete inspection-to-review handoff is useful without disrupting work in confined plumbing areas.,Pilot goal
+Applications,Shared caution,"A photo does not establish the cause of a problem. Inspection, diagnosis and final decisions remain with qualified professionals.",
+Audience,Eyebrow,WHO IT'S FOR,Compact role tags inside Applications rather than a long extra section
+Audience,Roles,Field technicians · Service managers · Office and reporting teams,
+Record,Eyebrow,INTENDED RECORD,
+Record,H2,What a useful record should contain,
+Record,Intro,The goal is a clearer record that a professional can check and correct—not an automatically completed report.,
+Record,Illustrative fields,Job / location · Equipment · Observation and permitted image · Measurements where available · Confirmed / uncertain · Next step · Reviewer sign-off,Illustrative UI only; not shipped product
+Record,Caption,Illustrative record format for evaluation. Not a representation of released software.,
+Stage,Eyebrow,DEVELOPMENT STATUS,
+Stage,H2,In development. Preparing for project-specific pilots.,
+Stage,Body,"HA-VEST01 is in prototype iteration and pilot preparation. Final configuration, performance, availability and delivery scope are determined through project evaluation. It is not presented as ready for volume deployment.",Keep explicit once; avoid repeated warnings elsewhere
+Evaluation,Eyebrow,HOW TO EVALUATE,
+Evaluation,H2,"One job, one test, a side-by-side comparison.",
+Evaluation,Step 1,Choose a recurring job. Bring one job type and a de-identified report template.,
+Evaluation,Step 2,Define the test together. Identify missing information and agree on a manageable evaluation scope.,
+Evaluation,Step 3,"Review the results together. We compare the complete workflow, from field visit to professionally reviewed record, with your current tools.",No implication client does comparison alone
+Evaluation,CTA,Plan a Pilot Evaluation,"Same single form, request type preselected"
+FAQ,Eyebrow,COMMON QUESTIONS,
+FAQ,Q1,Is HA-VEST01 available for full deployment? — Not yet. Evaluation scope and availability are confirmed project by project.,
+FAQ,Q2,Does it diagnose problems or produce final reports by itself? — It is not presented as an autonomous diagnosis or final reporting system. Qualified professionals retain diagnosis and final review.,
+FAQ,Q3,What are its weight and battery life? — These depend on the agreed configuration and operating mode and must be verified against prototype tests.,
+FAQ,Q4,"What about privacy and capture permissions? — Permission, data handling and any image treatment must be defined and tested for the specific project. There is no universal automatic guarantee.",
+FAQ,Q5,"Who owns and can access the records? — Data ownership, visibility and access permissions must be agreed and validated for each project.",R&D/legal approval
+FAQ,Q6,How do we start? — Tell us about one recurring job and the record your team needs. We can discuss whether a scoped evaluation makes sense.,
+Custom projects,H2,Exploring another wearable application?,Secondary CTA; not first-focus
+Custom projects,Body,"Creator workflows and other body-worn image or voice capture ideas can be considered as separate custom projects. Share your intended users, workflow, project stage and desired outputs.",Budget and first volume moved to sales follow-up per Fanyao; note deviation from Trigg v0.2
+Custom projects,CTA,Discuss a Custom Project,"Same form, custom request option"
+Contact,Eyebrow,LET'S TALK,
+Contact,H2,Tell us about your field-service workflow.,
+Contact,Body,Share one recurring job your team wants to document more clearly. Our team aims to respond within one business day.,Fanyao confirmed; test routing and commitment
+Contact,Primary CTA,Contact GMIC AI,Scrolls to inquiry form
+Contact,Privacy note,"Please do not submit customer names, addresses or images in this form.",
+Contact,Submission,Send Request,"Recipient Fanyao; no CRM, confirm delivery"
+SEO,Title,HA-VEST01 AI Vest for Field Service Documentation | GMIC,
+SEO,Meta description,"Explore GMIC HA-VEST01, a wearable AI vest for crawlspace, HVAC and plumbing field documentation. In development; pilot evaluations by request.",States stage in search result
